@@ -1,0 +1,17 @@
+body {
+    text-align: left;
+    text-indent: 100px;
+    background: thistle;
+  }
+h1 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    position: right;
+    right: 10%;
+}
